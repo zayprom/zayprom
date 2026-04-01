@@ -1,10 +1,15 @@
 # Hi 👋!
 
-My name is Petar Zayakov and I am frontend software engineer based in Prague, Czech Republic. I am focused on creating functional, clean and accessible UI. Below, you can explore the technologies I work with. For more information on my live projects, please visit my [personal website](https://petarzayakov.com).
+My name is Petar Zayakov. I specialize in building robust, scalable frontend applications with React and TypeScript, with a focus on maintainable architecture, component design, and clean integration with backend services.
 
-## Tech stack:
+I have hands-on experience working with **microfrontend architectures** on large-scale applications, as well as a growing interest in backend development with Go.
 
-- HTML
-- CSS
-- Javascript / Typescript
-- React
+Feel free to explore my projects below or visit my [personal website](https://petarzayakov.com).
+
+## Technologies
+
+**Frontend:** TypeScript · React · Storybook  
+**State & Data:** React Query  
+**Backend:** Go · REST APIs · OpenAPI  
+**Testing:** Jest · Playwright  
+**Practices:** Accessible UI · Performance optimization · Component library · Design systems · API client generation

@@ -8,9 +8,9 @@ Feel free to explore my projects below or visit my [personal website](https://pe
 
 ## Technologies
 
-**Frontend:** TypeScript · React · Storybook  
+**Frontend:** TypeScript · React  
 **Mobile:** React Native · Expo  
 **State & Data:** React Query  
 **Backend:** Go · REST APIs · OpenAPI  
 **Testing:** Jest · Playwright  
-**Practices:** Accessible UI · Performance optimization · Component library · Design systems · API client generation
+**Practices:** Accessible UI · Performance optimization · Microfrontends · Component library · Storybook · Design systems · API client generation

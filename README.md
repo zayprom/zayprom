@@ -9,7 +9,7 @@ Feel free to explore my projects below or visit my [personal website](https://pe
 ## Technologies
 
 **Frontend:** TypeScript · React · Storybook  
-**Mobile:** React Native · Expo
+**Mobile:** React Native · Expo  
 **State & Data:** React Query  
 **Backend:** Go · REST APIs · OpenAPI  
 **Testing:** Jest · Playwright  
